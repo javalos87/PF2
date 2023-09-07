@@ -44,15 +44,25 @@ Endpoint /api/products/
 Ejemplo
 
 { "title": "Samsung A8",
+
 "description": "Celular Samsung A8",
+
 "code": "abc8636",
+
 "price": "150000",
+
 "stock": "60",
+
 "category": "celulares",
+
 "status": true,
+
 "thumbnails": [
+
 "C:\\Users\\Desktop\\Backend\\PF2\\src\\public\\img\\captura.png"
+
 ]
+
 }
 
 Metodo PUT
