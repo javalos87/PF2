@@ -32,12 +32,17 @@ Endpoint /api/carts/id/products
 ### API PRODUCTS
 
 Metodo GET
+
 Endpoint /api/products
+
 Endpoint /api/products/id
 
 Metodo POST
+
 Endpoint /api/products/
+
 Ejemplo
+
 { "title": "Samsung A8",
 "description": "Celular Samsung A8",
 "code": "abc8636",
@@ -51,11 +56,15 @@ Ejemplo
 }
 
 Metodo PUT
+
 Endpoint /api/products/id
+
 Ejemplo
+
 {
 "title": "Samsung A10",  
 }
 
 Metodo DELETE
+
 Endpoint /api/products/id
